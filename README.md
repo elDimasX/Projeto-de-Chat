@@ -4,7 +4,7 @@
 Esse é um projeto de chat online, feito em Node e React. Ele incluí:
 - Registro/Login
 - Chat online e atualização em tempo real
-- Criação de deletação de canais
+- Criação e deletação de canais
 - Deletação de mensagens
 - Alterar uma configuração de perfil
 
