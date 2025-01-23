@@ -28,3 +28,4 @@ Você pode melhorar o projeto, por exemplo:
 - Criptografar senhas
 
 Levou cerca de uma semana para ser feito. Espero que você possa me recomendar melhorias ou aprender algo aqui :)
+Qualquer erro ou algo, me desculpe, estou aprendendo e melhorando ainda nessas tecnologias.
