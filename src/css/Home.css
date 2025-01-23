@@ -1,0 +1,77 @@
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+main div.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+main div.content h1 {
+  margin-bottom: 30px;
+}
+
+main div.content h2 {
+    margin-bottom: 30px;
+}
+
+
+
+footer {
+
+  width: 100%;
+  box-shadow: 4px 0px 6px rgba(0, 0, 0, 0.1);
+  background-color: var(--primary-color);
+  color: var(--text-primary);
+  text-align: center;
+  padding: 10px;
+  font-weight: 400;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+  height: 170px;
+}
+
+footer nav {
+  margin-top: 30px;
+  margin-left: 95px;
+  display: flex;
+  align-items: flex-start; /* Alinha os itens ao canto esquerdo */
+  flex-direction: column;
+}
+
+footer div {
+  display: flex;
+  flex-direction: row;
+}
+
+footer nav i {
+  font-size: 1.1rem;
+  padding-bottom: 5px;
+}
+
+footer nav a {
+  text-align: left; /* Garante que o texto dos links também esteja alinhado à esquerda */
+  color: inherit; /* Mantém a cor do link como a cor herdada */
+  text-decoration: none; /* Remove o sublinhado, se desejado */
+  padding: 5px 0; /* Espaçamento entre os links */
+}
+
+footer nav a svg {
+  font-size: 1rem;
+}

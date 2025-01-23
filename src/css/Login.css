@@ -1,0 +1,32 @@
+
+div.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-primary);
+}
+
+div.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+div.login-form input {
+    margin-top: 25px;
+    max-width: 400px;
+    width: 100%;
+}
+
+div.login-form button {
+    max-width: 400px;
+    margin-top: 25px;
+    width: 100%;
+}
+
+div.login-form a {
+    margin-top: 20px;
+}
