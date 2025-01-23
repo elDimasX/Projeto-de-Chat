@@ -1,5 +1,6 @@
 # Projeto de Chat REACT & NODE
 Projeto de chat, em tempo real com Firebase. Incluindo registro, usuário e atualizações de canais e mensagens em tempo real.
+Eu utiliz o React para o front e o Node para o backend.
 
 ## Sobre
 Eu terminei o curso de React e agora estou praticando Node. Decidi fazer um projeto que fosse divertido e que pudesse agregar mais no meu conhecimento. Demorei uma semana para concluí-lo, e me rendeu bons aprendizados.
